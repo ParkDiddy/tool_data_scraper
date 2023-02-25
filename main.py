@@ -30,7 +30,7 @@ def fraction_to_decimal(fraction):
     # Return the decimal representation of the fraction
     return round(whole_number + numerator / denominator, 3)
 
-rownum = 117
+rownum = 2
 
 while rownum < 120:
 
